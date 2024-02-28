@@ -1,0 +1,14 @@
+{
+  "name": "graficas-app",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fgz21",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
